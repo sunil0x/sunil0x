@@ -98,9 +98,9 @@ A web-based currency converter that pulls live exchange rates from an API and pr
 
 <div align="center">
 
-![Sunil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunil0x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Sunil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunil0x&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunil0x&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunil0x&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sunil0x&theme=tokyonight&hide_border=true)
 
@@ -123,9 +123,9 @@ A web-based currency converter that pulls live exchange rates from an API and pr
 
 | # | Certificate | Issuer | Year | Link |
 |---|-------------|--------|------|------|
-| 1 | *(Add your certificate here)* | *(e.g., Coursera / Udemy / Google)* | 202X | [View](#) |
-| 2 | *(Add your certificate here)* | *(e.g., freeCodeCamp / HackerRank)* | 202X | [View](#) |
-| 3 | *(Add your certificate here)* | *(e.g., AWS / Microsoft / Meta)* | 202X | [View](#) |
+| 1 | Introduction to Data Analytics | simplilearn | 202X | [View](./certifications/introduction_to_data_analytics.pdf) |
+| 2 | Introduction to Data Visualization using Matplotlib | Datacamp | 2024 | [View](./certifications/introduction_to_data_visualization_with_matplotlib.pdf) |
+
 
 > 💡 *Tip: Upload certificate images to your repository and link them here, or use Credly/LinkedIn badge URLs for a polished look.*
 
