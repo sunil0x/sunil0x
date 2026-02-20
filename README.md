@@ -98,9 +98,9 @@ A web-based currency converter that pulls live exchange rates from an API and pr
 
 <div align="center">
 
-![Sunil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunil0x&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunil0x&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunil0x&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunil0x&layout=compact&theme=tokyonight&exclude_repo=repo1,repo2)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sunil0x&theme=tokyonight&hide_border=true)
 
@@ -119,15 +119,14 @@ A web-based currency converter that pulls live exchange rates from an API and pr
 
 ## 🎓 Certificates
 
-> *This section showcases professional certifications and course completions. Add your certificates as you earn them.*
+> *This section showcases  certification of accomplishment and course completions*
 
 | # | Certificate | Issuer | Year | Link |
 |---|-------------|--------|------|------|
-| 1 | Introduction to Data Analytics | simplilearn | 2026 | [View](./certifications/introduction_to_data_analytics.pdf) |
+| 1 | Introduction to Data Analytics | Simplilearn | 2026 | [View](./certifications/introduction_to_data_analytics.pdf) |
 | 2 | Introduction to Data Visualization using Matplotlib | Datacamp | 2026 | [View](./certifications/introduction_to_data_visualization_with_matplotlib.pdf) |
-
-
-> 💡 *Tip: Upload certificate images to your repository and link them here, or use Credly/LinkedIn badge URLs for a polished look.*
+| 3 | Associate dataAnalyst in SQL  | Datacamp | 2026 | [View](./certifications/Associate_dataanalyst_insql.png) |
+| 4 | Data Analyst 101 (Excel Completion) | Simplilearn | 2026 | [View](./certifications/data_analyst_101.pdf) |
 
 ---
 
