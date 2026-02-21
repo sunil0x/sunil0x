@@ -88,7 +88,7 @@ A food ordering platform where users can browse, order their favourite meals, an
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunil0x&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunil0x&layout=compact&theme=tokyonight&exclude_repo=repo1,repo2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunil0x&layout=donut&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sunil0x&theme=tokyonight&hide_border=true)
 
