@@ -71,7 +71,7 @@ An exploratory data analysis project focused on the **Nepal Stock Exchange (NEPS
 
 ---
 
-### 🍔 [Yumio — Food Delivery App](https://github.com/sunil0x/Yumio-The_Food_Delivery_App)
+### 🍔 [Yumio — Food Delivery App](https://github.com/Shishir-129/Yumio-The_Food_Delivery_App.git)
 > *Full-Stack Web Application (PERN Stack)*
 
 A food ordering platform where users can browse, order their favourite meals, and even get recipes. Built with the **PERN** stack (PostgreSQL, Express, React, Node.js).
@@ -80,19 +80,7 @@ A food ordering platform where users can browse, order their favourite meals, an
 
 ---
 
-### 🌤️ Weather App
-A real-time weather application that fetches data from a weather API and displays temperature, humidity, and conditions for any selected location.
 
-`JavaScript` `REST API` `HTML` `CSS`
-
----
-
-### 💱 Currency Converter
-A web-based currency converter that pulls live exchange rates from an API and provides instant conversion between currencies.
-
-`JavaScript` `REST API` `HTML` `CSS`
-
----
 
 ## 📈 GitHub Progress
 
