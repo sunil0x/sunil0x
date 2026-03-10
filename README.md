@@ -2,7 +2,7 @@
 
 # Hi there, I'm Sunil Paudel 👋
 
-### 🚀 Engineering Student | Web Developer | Data Enthusiast
+### 🚀 Engineering Student  | Data Enthusiast
 
 *Exploring the intersection of Probability, Statistics, and Software*
 
@@ -23,7 +23,7 @@ I'm a Bachelor's student and aspiring developer based in Kathmandu, Nepal. I enj
 
 - 🎓 Currently pursuing a **Bachelor's degree** in a technology-related field
 - 🌱 Actively learning and building projects across **web development** and **data science**
-- 💡 Interested in **Python**, **JavaScript**, **data analysis**, and **game development**
+- 💡 Interested in **Python**, **JavaScript**, **data analysis**
 - 🤝 Open to collaborations, open-source contributions, and new learning opportunities
 
 ---
@@ -40,8 +40,6 @@ I'm a Bachelor's student and aspiring developer based in Kathmandu, Nepal. I enj
 ### Frameworks & Libraries
 ![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
 ### Tools & Platforms
 ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=flat-square&logo=jupyter&logoColor=white)
@@ -88,13 +86,19 @@ A food ordering platform where users can browse, order their favourite meals, an
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunil0x&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunil0x&layout=donut&theme=tokyonight)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sunil0x&layout=donut&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sunil0x&theme=tokyonight&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sunil0x&theme=tokyo-night&hide_border=true)
 
+<br>
+
+![Followers](https://img.shields.io/github/followers/sunil0x?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=sunil0x&style=flat-square)
+
 </div>
+
 
 ### 🏆 GitHub Achievements
 
