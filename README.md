@@ -125,18 +125,6 @@ A food ordering platform where users can browse, order their favourite meals, an
 
 ## 🎓 Certificates
 
-<<<<<<< HEAD
-> *This section showcases certification of accomplishment and course completions*
-
-| # | Certificate | Issuer | Year | Link |
-|---|-------------|--------|------|------|
-| 1 | Introduction to Data Analytics | Simplilearn | 2026 | [View](./certifications/introduction_to_data_analytics.pdf) |
-| 2 | Introduction to Data Visualization using Matplotlib | Datacamp | 2026 | [View](./certifications/introduction_to_data_visualization_with_matplotlib.pdf) |
-| 3 | Associate dataAnalyst in SQL  | Datacamp | 2026 | [View](./certifications/Associate_dataanalyst_insql.png) |
-| 4 | Data Analyst 101 (Excel Completion) | Simplilearn | 2026 | [View](./certifications/data_analyst_101.pdf) |
-
-
-> 💡 *Tip: Upload certificate images to your repository and link them here, or use Credly/LinkedIn badge URLs for a polished look.*
 =======
 > *This section showcases  certification of accomplishment and course completions*
 
