@@ -2,7 +2,7 @@
 
 # Hi there, I'm Sunil Paudel 👋
 
-### 🚀 Engineering Student | Web Developer | Data Enthusiast
+### 🚀 Engineering Student  | Data Enthusiast
 
 *Exploring the intersection of Probability, Statistics, and Software*
 
@@ -23,7 +23,7 @@ I'm a Bachelor's student and aspiring developer based in Kathmandu, Nepal. I enj
 
 - 🎓 Currently pursuing a **Bachelor's degree** in a technology-related field
 - 🌱 Actively learning and building projects across **web development** and **data science**
-- 💡 Interested in **Python**, **JavaScript**, **data analysis**, and **game development**
+- 💡 Interested in **Python**, **JavaScript**, **data analysis**
 - 🤝 Open to collaborations, open-source contributions, and new learning opportunities
 
 ---
@@ -50,8 +50,6 @@ I'm a Bachelor's student and aspiring developer based in Kathmandu, Nepal. I enj
 ### Frameworks & Libraries
 ![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
 ### Tools & Platforms
 ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=flat-square&logo=jupyter&logoColor=white)
@@ -81,7 +79,7 @@ An exploratory data analysis project focused on the **Nepal Stock Exchange (NEPS
 
 ---
 
-### 🍔 [Yumio — Food Delivery App](https://github.com/sunil0x/Yumio-The_Food_Delivery_App)
+### 🍔 [Yumio — Food Delivery App](https://github.com/Shishir-129/Yumio-The_Food_Delivery_App.git)
 > *Full-Stack Web Application (PERN Stack)*
 
 A food ordering platform where users can browse, order their favourite meals, and even get recipes. Built with the **PERN** stack (PostgreSQL, Express, React, Node.js).
@@ -90,19 +88,7 @@ A food ordering platform where users can browse, order their favourite meals, an
 
 ---
 
-### 🌤️ Weather App
-A real-time weather application that fetches data from a weather API and displays temperature, humidity, and conditions for any selected location.
 
-`JavaScript` `REST API` `HTML` `CSS`
-
----
-
-### 💱 Currency Converter
-A web-based currency converter that pulls live exchange rates from an API and provides instant conversion between currencies.
-
-`JavaScript` `REST API` `HTML` `CSS`
-
----
 
 ## 📈 GitHub Progress
 
@@ -110,13 +96,23 @@ A web-based currency converter that pulls live exchange rates from an API and pr
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunil0x&theme=tokyonight)
 
+<<<<<<< HEAD
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunil0x&layout=compact&theme=tokyonight&exclude_repo=repo1,repo2)
+=======
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sunil0x&layout=donut&theme=tokyonight)
+>>>>>>> 829d0a2acc094071ac0a9ff1e7bed05823a23247
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sunil0x&theme=tokyonight&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sunil0x&theme=tokyo-night&hide_border=true)
 
+<br>
+
+![Followers](https://img.shields.io/github/followers/sunil0x?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=sunil0x&style=flat-square)
+
 </div>
+
 
 ### 🏆 GitHub Achievements
 
@@ -129,6 +125,7 @@ A web-based currency converter that pulls live exchange rates from an API and pr
 
 ## 🎓 Certificates
 
+<<<<<<< HEAD
 > *This section showcases certification of accomplishment and course completions*
 
 | # | Certificate | Issuer | Year | Link |
@@ -140,6 +137,14 @@ A web-based currency converter that pulls live exchange rates from an API and pr
 
 
 > 💡 *Tip: Upload certificate images to your repository and link them here, or use Credly/LinkedIn badge URLs for a polished look.*
+=======
+> *This section showcases  certification of accomplishment and course completions*
+
+| # | Certificate | Issuer | Year | Link |
+|---|-------------|--------|------|------|
+| 1 | Associate dataAnalyst in SQL  | Datacamp | 2026 | [View](./certifications/Associate_dataanalyst_insql.png) |
+| 2 | Data Analyst 101 (Excel Completion) | Simplilearn | 2026 | [View](./certifications/data_analyst_101.pdf) |
+>>>>>>> 829d0a2acc094071ac0a9ff1e7bed05823a23247
 
 ---
 
