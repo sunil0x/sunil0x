@@ -96,9 +96,7 @@ A food ordering platform where users can browse, order their favourite meals, an
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunil0x&theme=tokyonight)
 
-<<<<<<< HEAD
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunil0x&layout=compact&theme=tokyonight&exclude_repo=repo1,repo2)
-=======
+
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sunil0x&layout=donut&theme=tokyonight)
 >>>>>>> 829d0a2acc094071ac0a9ff1e7bed05823a23247
 
@@ -125,14 +123,13 @@ A food ordering platform where users can browse, order their favourite meals, an
 
 ## 🎓 Certificates
 
-=======
 > *This section showcases  certification of accomplishment and course completions*
 
 | # | Certificate | Issuer | Year | Link |
 |---|-------------|--------|------|------|
 | 1 | Associate dataAnalyst in SQL  | Datacamp | 2026 | [View](./certifications/Associate_dataanalyst_insql.png) |
 | 2 | Data Analyst 101 (Excel Completion) | Simplilearn | 2026 | [View](./certifications/data_analyst_101.pdf) |
->>>>>>> 829d0a2acc094071ac0a9ff1e7bed05823a23247
+
 
 ---
 
