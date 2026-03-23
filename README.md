@@ -98,7 +98,7 @@ A food ordering platform where users can browse, order their favourite meals, an
 
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sunil0x&layout=donut&theme=tokyonight)
->>>>>>> 829d0a2acc094071ac0a9ff1e7bed05823a23247
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sunil0x&theme=tokyonight&hide_border=true)
 
