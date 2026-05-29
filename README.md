@@ -19,7 +19,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a Bachelor's student and aspiring developer based in Kathmandu, Nepal. I enjoy building clean, functional web applications and have a growing passion for data analysis, probability, and statistics. I believe in learning by doing — every project I take on is a step toward becoming a well-rounded software engineer.
+I'm a Bachelor's student and aspiring developer based in Kathmandu, Nepal. I enjoy building clean, functional web applications and have a growing passion for data analysis, probability, and statistics and AI. I believe in learning by doing — every project I take on is a step toward becoming a well-rounded software engineer.
 
 - 🎓 Currently pursuing a **Bachelor's degree** in a technology-related field
 - 🌱 Actively learning and building projects across **web development** and **data science**
@@ -107,19 +107,13 @@ A food ordering platform where users can browse, order their favourite meals, an
 <br>
 
 ![Followers](https://img.shields.io/github/followers/sunil0x?style=flat-square)
-![Profile Views](https://komarev.com/ghpvc/?username=sunil0x&style=flat-square)
 
 </div>
 
 
 ### 🏆 GitHub Achievements
 
-| Achievement | Description |
-|:-----------:|:------------|
-| 🦈 **Pull Shark** | Opened pull requests that have been successfully merged |
-| 🎯 **YOLO** | Merged a pull request without a review |
 
----
 
 ## 🎓 Certificates
 
