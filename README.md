@@ -74,9 +74,7 @@ I'm a **Computer Engineering student** at Tribhuvan University (IOE, Thapathali 
 
 <img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite&theme=dark"/>
 
-### Cloud, DevOps & Tooling
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,docker,linux,vscode,jupyter&theme=dark"/>
 
 ---
 
