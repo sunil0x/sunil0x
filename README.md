@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sunil%20Paudel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Engineering%20Student%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20AI%2FML%20Builder&descAlignY=55&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Frontend+Engineer+%7C+FastAPI+%2B+PostgreSQL;Data+Analyst+%7C+Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI;AI%2FML+Practitioner+%7C+LSTM+%E2%80%A2+Random+Forest;Computer+Engineering+%40+TU+Thapathali" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+FastAPI+%2B+PostgreSQL;Data+Analyst+%7C+Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI;AI%2FML+Practitioner+%7C+LSTM+%E2%80%A2+Random+Forest;Computer+Engineering+%40+TU+Thapathali" alt="Typing SVG"/>
 </a>
 
 <br/>
