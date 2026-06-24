@@ -111,7 +111,7 @@ Every move-validation rule — pin detection, en passant, castling — implement
 </details>
 
 <details>
-<summary><b>📊 NEPSE Data Analysis</b> &nbsp;·&nbsp; <i>Advanced Python + Published Research</i></summary>
+<summary><b>📊 NEPSE Data Analysis</b> &nbsp;·&nbsp; <i>Advanced Python Project With LSTM and Data Analysis</i></summary>
 
 <br/>
 
